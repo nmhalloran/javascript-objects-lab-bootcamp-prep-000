@@ -19,3 +19,5 @@ function deleteFromObjectByKey(object, key) {
   delete newObject.'key'
   consol.log(newObject)
 }
+
+deleteFromObjectByKey(recipes, 'pinch')
