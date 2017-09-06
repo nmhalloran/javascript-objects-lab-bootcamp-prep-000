@@ -20,4 +20,4 @@ function deleteFromObjectByKey(object, key) {
   console.log(newObject)
 }
 
-deleteFromObjectByKey(recipes, 'pinch')
+deleteFromObjectByKey(recipes, 'oil')
