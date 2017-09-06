@@ -21,4 +21,4 @@ function deleteFromObjectByKey(object, key) {
   return newObject
 }
 
-deleteFromObjectByKey(recipes, [oil])
+deleteFromObjectByKey(recipes, 'oil')
